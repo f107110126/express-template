@@ -6,11 +6,23 @@
     "start": "node ./bin/www"
   },
   "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.12.1",
+    "@phpixel/node-eloquent": "^0.1.13",
+    "body-parser": "^1.19.0",
+    "bootstrap": "^4.4.1",
     "cookie-parser": "~1.4.4",
+    "csurf": "^1.11.0",
     "debug": "~2.6.9",
+    "dotenv": "^6.2.0",
     "express": "~4.16.1",
     "http-errors": "~1.6.3",
+    "jquery": "^3.4.1",
     "morgan": "~1.9.1",
-    "pug": "2.0.0-beta11"
+    "multer": "^1.4.2",
+    "mysql": "^2.18.1",
+    "node-mysql-migration": "^0.2.1",
+    "popper.js": "^1.16.1",
+    "pug": "2.0.0-beta11",
+    "session": "^0.1.0"
   }
 }
